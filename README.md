@@ -1,7 +1,12 @@
+[![Build Status](https://dev.azure.com/DevOpsAli/Space%20Game%20-%20web%20-%20Tests1/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/DevOpsAli/Space%20Game%20-%20web%20-%20Tests1/_build/latest?definitionId=6&branchName=master)
+
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=nusairi_mslearn-tailspin-spacegame-web)](https://sonarcloud.io/dashboard?id=nusairi_mslearn-tailspin-spacegame-web)
+
 
 # Contributing
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
+This pr
+oject welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
 the rights to use your contribution. For details, visit https://cla.microsoft.com.
 
